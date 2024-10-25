@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/payoutSimulator/static/css/main.ec88bcb1.css",
-    "main.js": "/payoutSimulator/static/js/main.ed4932ca.js",
-    "static/js/453.ed3810f9.chunk.js": "/payoutSimulator/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/payoutSimulator/index.html",
-    "main.ec88bcb1.css.map": "/payoutSimulator/static/css/main.ec88bcb1.css.map",
-    "main.ed4932ca.js.map": "/payoutSimulator/static/js/main.ed4932ca.js.map",
-    "453.ed3810f9.chunk.js.map": "/payoutSimulator/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/static/css/main.ec88bcb1.css",
+    "main.js": "/static/js/main.1a24203e.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/index.html",
+    "main.ec88bcb1.css.map": "/static/css/main.ec88bcb1.css.map",
+    "main.1a24203e.js.map": "/static/js/main.1a24203e.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ec88bcb1.css",
-    "static/js/main.ed4932ca.js"
+    "static/js/main.1a24203e.js"
   ]
 }
